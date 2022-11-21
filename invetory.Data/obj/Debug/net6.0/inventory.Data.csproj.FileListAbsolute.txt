@@ -1,0 +1,12 @@
+D:\Visual Studio Projects\inventory\invetory.Data\bin\Debug\net6.0\inventory.Data.deps.json
+D:\Visual Studio Projects\inventory\invetory.Data\bin\Debug\net6.0\inventory.Data.dll
+D:\Visual Studio Projects\inventory\invetory.Data\bin\Debug\net6.0\inventory.Data.pdb
+D:\Visual Studio Projects\inventory\invetory.Data\obj\Debug\net6.0\inventory.Data.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\inventory\invetory.Data\obj\Debug\net6.0\inventory.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\inventory\invetory.Data\obj\Debug\net6.0\inventory.Data.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\inventory\invetory.Data\obj\Debug\net6.0\inventory.Data.AssemblyInfo.cs
+D:\Visual Studio Projects\inventory\invetory.Data\obj\Debug\net6.0\inventory.Data.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\inventory\invetory.Data\obj\Debug\net6.0\inventory.Data.dll
+D:\Visual Studio Projects\inventory\invetory.Data\obj\Debug\net6.0\refint\inventory.Data.dll
+D:\Visual Studio Projects\inventory\invetory.Data\obj\Debug\net6.0\inventory.Data.pdb
+D:\Visual Studio Projects\inventory\invetory.Data\obj\Debug\net6.0\ref\inventory.Data.dll
